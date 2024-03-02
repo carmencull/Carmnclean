@@ -2221,13 +2221,13 @@ button,
     -webkit-transition: background-color 0.2s ease, border-top-left-radius 0.2s ease, border-top-right-radius 0.2s ease, padding 0.2s ease;
     -ms-transition: background-color 0.2s ease, border-top-left-radius 0.2s ease, border-top-right-radius 0.2s ease, padding 0.2s ease;
     transition: background-color 0.2s ease, border-top-left-radius 0.2s ease, border-top-right-radius 0.2s ease, padding 0.2s ease;
-    background-color: #ffffff;
+    background-color: #4d4c4c;
     color: #636363;
     position: absolute;
     width: 64em;
     max-width: calc(100% - 4em);
     padding: 1em;
-    background-color: #f7f7f7;
+    background-color: #363636;
     border-top-left-radius: 0.25em;
     border-top-right-radius: 0.25em;
     cursor: default;
@@ -2343,7 +2343,7 @@ button,
 
 /* Main */
 #main {
-    background-color: #ffffff;
+    background-color: #111111;
     color: #636363;
     border-radius: 0.25em;
 }
